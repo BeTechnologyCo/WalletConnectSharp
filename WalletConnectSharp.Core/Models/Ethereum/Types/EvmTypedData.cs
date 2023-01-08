@@ -1,5 +1,6 @@
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.Serialization;
+using WalletConnectSharp.Core.Extensions;
 
 namespace WalletConnectSharp.Core.Models.Ethereum.Types;
 

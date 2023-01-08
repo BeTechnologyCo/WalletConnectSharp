@@ -1,5 +1,4 @@
-using System.Threading.Tasks.Sources;
-using WalletConnectSharp.Core.Events.Request;
+﻿using WalletConnectSharp.Core.Events.Request;
 using WalletConnectSharp.Core.Events.Response;
 using WalletConnectSharp.Core.Models;
 using WalletConnectSharp.Core.Utils;
